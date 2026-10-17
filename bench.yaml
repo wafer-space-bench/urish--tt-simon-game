@@ -50,8 +50,9 @@ tapeouts:
   tag: tinytapeout/ttgf26b/tt_um_urish_simon
   branch: tapeout/tinytapeout/ttgf26b/tt_um_urish_simon
   page: https://app.tinytapeout.com/shuttles/ttgf26b
-generated: '2026-10-17T01:40:35Z'
+generated: '2026-10-17T12:56:36Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
 branches:
 - about
 - tapeout/tinytapeout/ttgf0p2/tt_um_urish_simon
