@@ -1,0 +1,66 @@
+source:
+  url: https://github.com/urish/tt-simon-game
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p2
+  slot: tt_um_urish_simon
+  project: Simon Says memory game
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 44063952977f4a69178d8ffe0fb78dbe5b5cb0ff
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p2/tt_um_urish_simon
+  branch: tapeout/tinytapeout/ttgf0p2/tt_um_urish_simon
+  page: https://app.tinytapeout.com/shuttles/ttgf0p2
+- org: tinytapeout
+  run: ttgf0p3
+  slot: tt_um_urish_simon
+  project: Simon Says memory game
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 3a0a46fc4a3ffa4bc1d69b58dd80e01f830c8277
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p3/tt_um_urish_simon
+  branch: tapeout/tinytapeout/ttgf0p3/tt_um_urish_simon
+  page: https://app.tinytapeout.com/shuttles/ttgf0p3
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_urish_simon
+  project: Simon Says memory game
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 1ad919a9c6007aa477518746419dd642cd1b07b6
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_urish_simon
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_urish_simon
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+- org: tinytapeout
+  run: ttgf26b
+  slot: tt_um_urish_simon
+  project: Simon Says memory game
+  size: 1x1
+  kind: digital (Verilog)
+  commit: 3a0a46fc4a3ffa4bc1d69b58dd80e01f830c8277
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26b/tt_um_urish_simon
+  branch: tapeout/tinytapeout/ttgf26b/tt_um_urish_simon
+  page: https://app.tinytapeout.com/shuttles/ttgf26b
+generated: '2026-10-17T01:40:35Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p2/tt_um_urish_simon
+- tapeout/tinytapeout/ttgf0p3/tt_um_urish_simon
+- tapeout/tinytapeout/ttgf26a/tt_um_urish_simon
+- tapeout/tinytapeout/ttgf26b/tt_um_urish_simon
+- upstream/main
+- upstream/ttgf0p2
+- upstream/ttgf26a
+- upstream/ttihp0p4
+- upstream/ttihp26a
+- upstream/ttihp26b
